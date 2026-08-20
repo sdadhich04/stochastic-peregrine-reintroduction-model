@@ -1,0 +1,3 @@
+numpy
+
+# Exact package versions from the original course notebook environment were not captured.
